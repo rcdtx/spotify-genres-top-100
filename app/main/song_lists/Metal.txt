@@ -1,0 +1,50 @@
+1| Livin' On A Prayer| Bon Jovi| 81| 37ZJ0p5Jm13JPevGcx4SkF
+2| In the End| Linkin Park| 80| 60a0Rd6pjrkxjPbaKzXjfq
+3| Numb| Linkin Park| 78| 2nLtzopw4rPReszdYBJU6h
+4| You Give Love A Bad Name| Bon Jovi| 78| 0rmGAIH9LNJewFw7nKzZnc
+5| Under the Bridge| Red Hot Chili Peppers| 78| 3d9DChrdc6BOeFsbrZ3Is0
+6| Chop Suey!| System Of A Down| 77| 2DlHlPMa4M17kufBvI2lEN
+7| Last Resort| Papa Roach| 77| 5W8YXBz9MTIDyrpYaCg2Ky
+8| Bring Me To Life| Evanescence| 76| 0COqiPhxzoWICwFCS4eZcp
+9| Kryptonite| 3 Doors Down| 75| 6ZOBP3NvffbU4SZcrnt1k6
+10| Killing In The Name| Rage Against The Machine| 75| 59WN2psjkt1tyaxjspN8fp
+11| Toxicity| System Of A Down| 75| 0snQkGI5qnAmohLE7jTsTn
+12| How You Remind Me| Nickelback| 75| 0gmbgwZ8iqyMPmXefof8Yf
+13| Fear Inoculum| TOOL| 74| 4XW5PGlQ3S4B8Bti7meocj
+14| Kickstart My Heart| Mötley Crüe| 74| 7GonnnalI2s19OCQO1J7Tf
+15| Unsainted| Slipknot| 74| 2093eVNfimjmNjU1gk1ES7
+16| Crazy Train| Ozzy Osbourne| 74| 2b9lp5A6CqSzwOrBfAFhof
+17| Duality| Slipknot| 74| 61mWefnWQOLf90gepjOCb3
+18| Black Hole Sun| Soundgarden| 74| 2EoOZnxNgtmZaD8uUmz2nD
+19| What I've Done| Linkin Park| 74| 18lR4BzEs7e3qzc0KVkTpU
+20| All Summer Long| Kid Rock| 73| 5rX6C5QVvvZB7XckETNych
+21| Pour Some Sugar On Me - Remastered 2017| Def Leppard| 73| 0PdM2a6oIjqepoEfcJo0RO
+22| Sweet Child O' Mine| Guns N' Roses| 72| 7snQQk1zcKl8gZ92AnueZW
+23| Hail to the King| Avenged Sevenfold| 72| 5anCkDvJ17aznvK5TED5uo
+24| Enter Sandman| Metallica| 71| 5BIMPccDwShpXq784RJlJp
+25| Headstrong| Trapt| 71| 1AEYT6VxrxXPMoQUxsY0E4
+26| Nero Forte| Slipknot| 71| 56fiFTRrSiHHH3gBeaTg2P
+27| Critical Darling| Slipknot| 71| 3XFaGEb6daqdj39ThpJ2XI
+28| Down with the Sickness| Disturbed| 71| 40rvBMQizxkIqnjPdEWY1v
+29| Schism| TOOL| 71| 55mJleti2WfWEFNFcBduhc
+30| Forty Six & 2| TOOL| 71| 6AioOohg4bQZFA4jIYQQ2r
+31| The Pot| TOOL| 71| 1lATXTBJDHwawvT1UfxWu3
+32| Fake It| Seether| 71| 4eAwB5pnKFTmsgc3zWoYO0
+33| Wanted Dead Or Alive| Bon Jovi| 71| 0oerlffJSzhRVvtDfLcp3N
+34| Welcome To The Jungle| Guns N' Roses| 70| 0G21yYKMZoHa30cYVi1iA8
+35| Paradise City| Guns N' Roses| 70| 6eN1f9KNmiWEhpE2RhQqB5
+36| Sober| TOOL| 70| 6DyywdbmTzlmXBzG9ym7Rt
+37| Unsainted| Slipknot| 70| 5mpUKTdskZea0gStWzeHUZ
+38| Bodies| Drowning Pool| 70| 7CpbhqKUedOIrcvc94p60Y
+39| Zombie| Bad Wolves| 70| 1vNoA9F5ASnlBISFekDmg3
+40| Animal I Have Become| Three Days Grace| 69| 56sk7jBpZV0CD31G9hEU3b
+41| Birth Of The Cruel| Slipknot| 69| 7I6p0xNYahHpUUXj785URX
+42| Savior| Rise Against| 69| 3asFGFY3uLjMDmML1p0tYm
+43| Rx (Medicate)| Theory of a Deadman| 68| 2UZtI2HUyLRzqBjodvcUmY
+44| Red Flag| Slipknot| 68| 4SsgF844NGbl7UFcymqWKy
+45| Orphan| Slipknot| 68| 0ipTpoDQ06S5iI4RRQFQjx
+46| A Liar's Funeral| Slipknot| 68| 4wOgNWU6Y6mixNZcimJqDv
+47| Bad Company| Five Finger Death Punch| 67| 6nULLS7CipGMSzgQDxDpd1
+48| Nothing Else Matters| Metallica| 67| 10igKaIKsSB6ZnWxPxPvKO
+49| Spiders| Slipknot| 67| 3ViTZxW9satrTEMRu1GCLV
+50| Rockstar| Nickelback| 66| 6n9yCXvLhnYMgJIiIcMu7D

@@ -1,0 +1,50 @@
+1| Creep| Radiohead| 79| 6b2oQwSGFkzsMtQruIWm2p
+2| All Star| Smash Mouth| 78| 3cfOd4CMv2snFaKAnMdnvK
+3| Under the Bridge| Red Hot Chili Peppers| 78| 3d9DChrdc6BOeFsbrZ3Is0
+4| Californication| Red Hot Chili Peppers| 78| 48UPSzbZjgc449aqz8bxox
+5| Losing My Religion| R.E.M.| 78| 31AOj9sFz2gM0O3hMARRBx
+6| Can't Stop| Red Hot Chili Peppers| 77| 3ZOEytgrvLwQaqXreDs2Jx
+7| Tongue Tied| Grouplove| 76| 0GO8y8jQk1PkHzS31d699N
+8| Sweater Weather| The Neighbourhood| 76| 2QjOHCTQ1Jl3zawyYOpxh6
+9| Snow (Hey Oh)| Red Hot Chili Peppers| 76| 2aibwv5hGXSgw7Yru8IYTO
+10| Mr. Jones| Counting Crows| 75| 5DiXcVovI0FcY2s0icWWUu
+11| Iris| The Goo Goo Dolls| 75| 6Qyc6fS4DsZjB2mRW9DsQs
+12| Otherside| Red Hot Chili Peppers| 75| 64BbK9SFKH2jk86U3dGj2P
+13| Killing In The Name| Rage Against The Machine| 75| 59WN2psjkt1tyaxjspN8fp
+14| Semi-Charmed Life| Third Eye Blind| 74| 42et6fnHCw1HIPSrdPprMl
+15| Unsteady| X Ambassadors| 74| 7lGKEWMXVWWTt3X71Bv44I
+16| Island In The Sun| Weezer| 74| 2MLHyLy5z5l5YRp7momlgw
+17| Fear Inoculum| TOOL| 74| 4XW5PGlQ3S4B8Bti7meocj
+18| Everlong| Foo Fighters| 74| 5UWwZ5lm5PKu6eKsHAGxOk
+19| Black Hole Sun| Soundgarden| 74| 2EoOZnxNgtmZaD8uUmz2nD
+20| Way Down We Go| KALEO| 73| 0y1QJc3SJVPKJ1OvFmFqe6
+21| Dani California| Red Hot Chili Peppers| 73| 10Nmj3JCNoMeBQ87uw5j8k
+22| Alive| Pearl Jam| 73| 1L94M3KIu7QluZe63g64rv
+23| Scar Tissue| Red Hot Chili Peppers| 73| 1G391cbiT3v3Cywg8T7DM1
+24| Smells Like Teen Spirit| Nirvana| 72| 5ghIJDpPoe3CfHMGu71E6T
+25| Stacy's Mom| Fountains Of Wayne| 72| 27L8sESb3KR79asDUBu8nW
+26| Seven Nation Army| The White Stripes| 72| 7i6r9KotUPQg3ozKKgEPIN
+27| No Rain| Blind Melon| 72| 6txWz9UapYHVxEd7dDIHXT
+28| Daddy Issues| The Neighbourhood| 72| 5E30LdtzQTGqRvNd7l6kG5
+29| Heart-Shaped Box| Nirvana| 72| 11LmqTE2naFULdEP94AUBa
+30| Even Flow| Pearl Jam| 72| 6QewNVIDKdSl8Y3ycuHIei
+31| Monster| Skillet| 72| 2UREu1Y8CO4jXkbvqAtP7g
+32| Somebody Else| The 1975| 71| 5hc71nKsUgtwQ3z52KEKQk
+33| Say It Ain't So| Weezer| 71| 6VoIBz0VhCyz7OdEoRYDiA
+34| Love It If We Made It| The 1975| 71| 6WmIyn2fx1PKQ0XDpYj4VR
+35| It's Not Living (If It's Not With You)| The 1975| 71| 3TgMcrV32NUKjEG2ujn9eh
+36| Renegades| X Ambassadors| 71| 0fYVliAYKHuPmECRs1pbRf
+37| Schism| TOOL| 71| 55mJleti2WfWEFNFcBduhc
+38| Come As You Are| Nirvana| 70| 4P5KoWXOxwuobLmHXLMobV
+39| My Own Worst Enemy| Lit| 69| 33iv3wnGMrrDugd7GBso1z
+40| Legend| The Score| 69| 3SWqGa1J0M7hSBUDM0KePD
+41| Fade Into You| Mazzy Star| 69| 1LzNfuep1bnAUR9skqdHCK
+42| Man in the Box| Alice In Chains| 69| 6gZVQvQZOFpzIy3HblJ20F
+43| Blood // Water| grandson| 68| 7clyJIrLkEbXUDwj1tC9zz
+44| Closing Time| Semisonic| 68| 1A5V1sxyCLpKJezp75tUXn
+45| Superposition| Young the Giant| 68| 67YPjbcxUypwNOwYBZquq1
+46| Slide| The Goo Goo Dolls| 68| 0nnwn7LWHCAu09jfuH1xTA
+47| Wish I Knew You| The Revivalists| 67| 2EWpa5XnAuSn0sIkSSIhYk
+48| Sex & Candy| Marcy Playground| 67| 5mkGfmJGFZpwK9nA5amOhv
+49| Lithium| Nirvana| 66| 2YodwKJnbPyNKe8XXSE9V7
+50| Dancing in the Moonlight - 2001 Remix| Toploader| 64| 1OzY7RRZh3EcIKn7VKZUTx

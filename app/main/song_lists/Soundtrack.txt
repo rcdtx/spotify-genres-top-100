@@ -1,0 +1,50 @@
+1| Time| Hans Zimmer| 67| 6ZFbXIJkuI1dVNWvzJzown
+2| The Avengers| Alan Silvestri| 66| 5SXsXjVJCWeJuf7FHvgBYR
+3| Portals| Alan Silvestri| 65| 0OVtnS3l4vThGxkdqCxN6K
+4| Stranger Things| Kyle Dixon & Michael Stein| 65| 0kwuKfWntoGh0EWyYb7Mpf
+5| A Catalogue Of Afternoons| Max Richter| 64| 42c1ppLBsSbUjFNDzYLY10
+6| The Night King| Ramin Djawadi| 63| 1aDklx1GaBqHFowCzz63wU
+7| Life's Not Fair| Hans Zimmer| 63| 6hdEgJdm3FFLvssWuoXKdV
+8| Cornfield Chase| Hans Zimmer| 63| 3PrLXpTfUdi9iE1PA82sS3
+9| Rafiki's Fireflies| Hans Zimmer| 62| 2GamicW8mLY9RxSLfPrN9L
+10| Nemo Egg (Main Title)| Thomas Newman| 61| 7jSQaXLzpLHjSQTev2krvT
+11| Elephant Graveyard| Hans Zimmer| 61| 2KPgMVJ4TOg9N6E4JWkJT2
+12| Reflections of Mufasa| Hans Zimmer| 61| 7eQe6PVlm042ArcDA9w9nn
+13| Dream 1 (before the wind blows it all away) - Pt. 1| Max Richter| 61| 3FVy3aVs0TFzLv6FEiLqC2
+14| The Hanging Tree| James Newton Howard| 61| 416MsJxvxSKY96DCmbJIRs
+15| Day One| Hans Zimmer| 61| 1ClIKr4uKzosk6FOpHwLJM
+16| Simba Is Alive!| Hans Zimmer| 60| 55WbFc6lWIl7eNFsqU9ZqC
+17| Remember| Hans Zimmer| 60| 3BUT32qmBXmlqp3EJkgRfp
+18| Concerning Hobbits| Howard Shore| 60| 644es5aYPJghtZLjM1rmSP
+19| Married Life| Michael Giacchino| 59| 7iocNjLrxPHLl8njgRlv5U
+20| Stampede| Hans Zimmer| 59| 6aGHQu7gHrYgVSXvF5udUt
+21| The First I love You| Kyle Dixon & Michael Stein| 59| 3CbiMpMzToJhNJWza98K22
+22| A Game of Badminton (feat. Jack Liebeck)| Dario Marianelli| 58| 02BumRY2OTFMkMxrXSVMat
+23| Dream 11 (whisper music) - Pt. 1| Max Richter| 58| 45Mxc03iwZ9jOZFmO5HqF0
+24| Kids| Kyle Dixon & Michael Stein| 58| 68gzf3AleOyt4NlKwpV0MY
+25| Light of the Seven| Ramin Djawadi| 57| 1SbsbLsUMnAKWHx1zAV6ER
+26| Duel of the Fates| John Williams| 57| 1ghlpxVfPbFH2jenrv9vVw
+27| The Same Answer| Dan Romer| 57| 5KlC2hzT0q5KHTTShSlzE5
+28| Bella's Lullaby| Carter Burwell| 57| 7bhub6kscykFs0ux2kSLSd
+29| Battle for Pride Rock| Hans Zimmer| 57| 2WGNFmRcApRC8znCuGtfXJ
+30| Theme From Jurassic Park - From "Jurassic Park" Soundtrack| John Williams| 57| 2TZbQZXOuR8osP2AK8yYMN
+31| Scar Takes the Throne| Hans Zimmer| 57| 7DIvucbPgVDWHiFhNwjOUf
+32| Prologue| John Williams| 57| 6CeCOC2zx1qS8mQNYHe6IM
+33| He's a Pirate| Klaus Badelt| 56| 08QaHlMPWuO5PUxjl61bXn
+34| This Land - From "The Lion King"/Score| Hans Zimmer| 56| 6EKywtYHtZLAvxyEcqrbE7
+35| The Real Hero| Alan Silvestri| 56| 3KHrXuByzDnDOaVR15rZH7
+36| Comptine d'un autre été, l'après-midi| Yann Tiersen| 54| 4O2N861eOnF9q8EtpH8IJu
+37| Vladimir's Blues| Max Richter| 54| 370TxU3tPIvVLmCrGd2EZ6
+38| A Cruel Angel's Thesis - Director's Edit Version| Shiro Sagisu| 54| 57MPlXPzzMql6fTyldNAxe
+39| Summer Waltz / The Drive| Dustin O'Halloran| 53| 4FSCzl1G0xzaaE6hiNELv4
+40| X-HZT| Hans Zimmer| 34| 5wQVKATJNRLp2dF3cCnbDH
+41| X-X| Hans Zimmer| 33| 7vZJgkQF7mXLlvN2itPXsD
+42| Pirates of the Caribbean| Hans Zimmer| 33| 0udBV1i47r8Y5eTWhrQowJ
+43| X-LGDP| Hans Zimmer| 31| 4pWcArCSvjoLZJTbkiqd3D
+44| X-SS| Hans Zimmer| 29| 6DOPrMO0nRnKGx6sLbl3Db
+45| X-SI| Hans Zimmer| 29| 2Fx8vaG6L67ZLdROckB6eB
+46| X-TX| Hans Zimmer| 28| 0ZIGNPdTzo8vzHJnjNIOCZ
+47| X-MT| Hans Zimmer| 28| 4qaO2qlI6OQKnU8wWWIKNt
+48| X-MDP| Hans Zimmer| 27| 59HvyYL0nFX2EpOW518TgB
+49| X-CH| Hans Zimmer| 27| 5GDlr7NgLVzW6MKU50P4SK
+50| X-F| Hans Zimmer| 25| 3V1PE9QH6s7x039u5HnWp2

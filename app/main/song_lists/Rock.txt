@@ -1,0 +1,50 @@
+1| Rescue Me| OneRepublic| 87| 0mjAU3yKR1QnXnHtjGJqTM
+2| Believer| Imagine Dragons| 85| 0pqnGHJpmpxLKifKRmU6WP
+3| High Hopes| Panic! At The Disco| 85| 1rqqCSm0Qe4I9rUvWncaom
+4| Thunder| Imagine Dragons| 84| 1zB4vmk8tFRmM9UULNzbLB
+5| Africa| Toto| 82| 2374M0fQpWi3dLnB54qaLX
+6| Bad Liar| Imagine Dragons| 82| 2RSHsoi04658QL5xgQVov3
+7| Natural| Imagine Dragons| 81| 2FY7b99s15jUprqC0M5NCT
+8| Pumped Up Kicks| Foster The People| 81| 7w87IxuO7BDcJ3YUqCyMTT
+9| Back In Black| AC/DC| 81| 08mG3Y1vljYA6bvDt4Wqkj
+10| The Less I Know The Better| Tame Impala| 81| 6K4t31amVTZDgR3sKmwUJJ
+11| Highway to Hell| AC/DC| 81| 2zYzyRzz6pRmhPzyfMEC8s
+12| Livin' On A Prayer| Bon Jovi| 81| 37ZJ0p5Jm13JPevGcx4SkF
+13| Sweet Home Alabama| Lynyrd Skynyrd| 80| 7e89621JPkKaeDSTQ3avtg
+14| Rocket Man (I Think It's Going To Be A Long, Long Time)| Elton John| 80| 3gdewACMIVMEWVbyb8O9sY
+15| Hey Look Ma, I Made It| Panic! At The Disco| 80| 22oEJW6r2rMb9z4IntfyEa
+16| Hotel California - 2013 Remaster| Eagles| 80| 40riOy7x9W7GXjyGp4pjAv
+17| Whatever It Takes| Imagine Dragons| 80| 6Qn5zhYkTa37e91HC1D7lb
+18| Here Comes The Sun - Remastered 2009| The Beatles| 80| 6dGnYIeXmHdcikdzNNDMm2
+19| Stressed Out| Twenty One Pilots| 80| 3CRDbSIZ4r5MsZ0YwxuEkn
+20| Mr. Blue Sky| Electric Light Orchestra| 79| 2RlgNHKcydI9sayD2Df2xp
+21| Ride| Twenty One Pilots| 79| 2Z8WuEywRWYTKe1NybPQEW
+22| Tiny Dancer| Elton John| 78| 2TVxnKdb3tqe1nhQWwwZCO
+23| Brown Eyed Girl| Van Morrison| 78| 3yrSvpt2l1xhsV9Em88Pul
+24| Thunderstruck| AC/DC| 78| 57bgtoPSgt236HzfBOd8kj
+25| All Star| Smash Mouth| 78| 3cfOd4CMv2snFaKAnMdnvK
+26| Heathens| Twenty One Pilots| 78| 6i0V12jOa3mr6uu4WYhUBr
+27| Chlorine| Twenty One Pilots| 78| 23OXdR7YuUBVWh5hSnYJau
+28| Dreams - 2004 Remaster| Fleetwood Mac| 77| 0ofHAoxe9vBkTCp2UQIavz
+29| Fortunate Son| Creedence Clearwater Revival| 77| 4BP3uh0hFLFRb5cjsgLqDh
+30| Don't Stop Believin'| Journey| 77| 4bHsxqR3GMrXTxEPLuK5ue
+31| Bohemian Rhapsody - Remastered 2011| Queen| 76| 7tFiyTwD0nx5a1eklYtX2J
+32| Mr. Brightside| The Killers| 76| 7oK9VyNzrYvRFo7nQEYkWN
+33| Tongue Tied| Grouplove| 76| 0GO8y8jQk1PkHzS31d699N
+34| Rumor| Lee Brice| 76| 56eGOeSsqdg3FLxdo83TwV
+35| More Than a Feeling| Boston| 76| 1QEEqeFIZktqIpPI4jSVSF
+36| Look What God Gave Her| Thomas Rhett| 76| 2KqJC0koTBUyDlsMt5ok1V
+37| Uptown Girl| Billy Joel| 76| 5zA8vzDGqPl2AzZkEYQGKh
+38| The Chain - 2004 Remaster| Fleetwood Mac| 76| 5e9TFTbltYBg2xThimr0rU
+39| Don't Stop Me Now - Remastered| Queen| 75| 7hQJA50XrCWABAu5v6QZ4i
+40| Landslide| Fleetwood Mac| 75| 5ihS6UUlyQAfmp48eSkxuQ
+41| The Joker| Steve Miller Band| 74| 1bp2IO61zbQrbWNmKKxg3f
+42| Free Fallin'| Tom Petty| 74| 5tVA6TkbaAH9QMITTQRrNv
+43| Take It Easy - 2013 Remaster| Eagles| 74| 4yugZvBYaoREkJKtbG08Qr
+44| Sweet Child O' Mine| Guns N' Roses| 72| 7snQQk1zcKl8gZ92AnueZW
+45| Seven Nation Army| The White Stripes| 72| 7i6r9KotUPQg3ozKKgEPIN
+46| American Girl| Tom Petty and the Heartbreakers| 72| 7MRyJPksH3G2cXHN8UKYzP
+47| Ain't No Rest for the Wicked| Cage The Elephant| 72| 3Pzh926pXggbMe2ZpXyMV7
+48| Under Pressure - Remastered| Queen| 71| 11IzgLRXV7Cgek3tEgGgjw
+49| Demons| Imagine Dragons| 70| 3LlAyCYU26dvFZBDUIMb7a
+50| Radioactive| Imagine Dragons| 70| 4G8gkOterJn0Ywt6uhqbhp

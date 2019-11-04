@@ -1,0 +1,50 @@
+1| Piece Of Your Heart| MEDUZA| 91| 1DFD5Fotzgn6yYXkYsKiGs
+2| Summer Days (feat. Macklemore & Patrick Stump of Fall Out Boy)| Martin Garrix| 89| 7Feaw9WAEREY0DUOSXJLOM
+3| Happier| Marshmello| 88| 2dpaYNEQHiRxtZbfNsse99
+4| Higher Love| Kygo| 88| 6oJ6le65B3SEqPwMRNXWjY
+5| Don't Call Me Up| Mabel| 86| 5WHTFyqSii0lmT9R21abT8
+6| Post Malone (feat. RANI)| Sam Feldt| 85| 0qc4QlcCxVTGyShurEv1UU
+7| Here With Me| Marshmello| 85| 5icOoE6VgqFKohjWWNp0Ac
+8| Hate Me (with Juice WRLD)| Ellie Goulding| 85| 6kls8cSlUyHW2BUOkDJIZE
+9| Ritual| Tiësto| 85| 3M9Apu4OZfylLTFKvgEtKa
+10| Mad Love| Mabel| 85| 79JBjIq90BrQ8Ws0pUhlzD
+11| On My Way| Alan Walker| 84| 4n7jnSxVLd8QioibtTDBDq
+12| The Middle| Zedd| 83| 09IStsImFySgyp0pIQdqAc
+13| Find U Again (feat. Camila Cabello)| Mark Ronson| 83| 1HpzOCZbNWzxvvXfSGtSrX
+14| Close To Me (with Diplo) (feat. Swae Lee)| Ellie Goulding| 83| 5JEx7HbmvHQQswJCsoo9rA
+15| Carry On (from the Original Motion Picture "POKÉMON Detective Pikachu")| Kygo| 83| 3y3brCCecHC3Db18aIOnny
+16| Promises (with Sam Smith)| Calvin Harris| 83| 5N5k9nd479b1xpDZ4usjrg
+17| Closer| The Chainsmokers| 82| 7BKLCZ1jbUBVqRi2FVlTVw
+18| One Kiss (with Dua Lipa)| Calvin Harris| 82| 7ef4DlsgrMEH11cDZd32M6
+19| Dancin (feat. Luvli) - Krono Remix| Aaron Smith| 82| 6WkJ2OK163XXS2oARUC9JM
+20| This Feeling| The Chainsmokers| 81| 4NBTZtAt1F13VvlSKe6KTl
+21| FRIENDS| Marshmello| 81| 08bNPGLD8AhKpnnERrAc6G
+22| Happy Now| Kygo| 81| 14sOS5L36385FJ3OL8hew4
+23| 2002| Anne-Marie| 81| 2BgEsaKNfHUdlh97KmvFyo
+24| Silence| Marshmello| 80| 7vGuf3Y35N4wmASOKLUVVU
+25| Electricity (with Dua Lipa)| Silk City| 80| 5N4erncE7kuUccm7zEmwzk
+26| Let Me Go (with Alesso, Florida Georgia Line & watt)| Hailee Steinfeld| 80| 5Gu0PDLN4YJeW75PpBSg9p
+27| Something Just Like This| The Chainsmokers| 80| 6RUKPb4LETWmmr3iAEQktW
+28| Jackie Chan| Tiësto| 79| 4kWO6O1BUXcZmaxitpVUwp
+29| In the Name of Love| Martin Garrix| 79| 23L5CiUhw2jV1OIMwthR3S
+30| Body| Loud Luxury| 78| 21RzyxY3EFaxVy6K4RqaU9
+31| Eastside (with Halsey & Khalid)| benny blanco| 78| 7FGq80cy8juXBCD2nrqdWU
+32| Summer| Calvin Harris| 78| 6YUTL4dYpB9xZO5qExPf05
+33| Uptown Funk| Mark Ronson| 78| 32OlwWuMpZ6b0aN2RZOeMS
+34| Don't Let Me Down| The Chainsmokers| 78| 1i1fxkWeaMmKEB4T7zqbzK
+35| Starving| Hailee Steinfeld| 77| 4Ce37cRWvM1vIGGynKcs22
+36| This Is What You Came For| Calvin Harris| 77| 0azC730Exh71aQlOt9Zj3y
+37| Stay (with Alessia Cara)| Zedd| 77| 6uBhi9gBXWjanegOb2Phh0
+38| Ocean (feat. Khalid)| Martin Garrix| 76| 3nc420PXjTdBV5TN0gCFkS
+39| Good Things Fall Apart (with Jon Bellion)| ILLENIUM| 74| 6pooRNiLyYpxZeIA5kJ5EX
+40| Call You Mine| The Chainsmokers| 73| 1SNiXDwSilLujcYdvfqVpT
+41| Roses (with Juice WRLD feat. Brendon Urie)| benny blanco| 73| 5YAP8zpqj1eIX88makBjDe
+42| All You Need To Know (feat. Calle Lehmann)| Gryffin| 73| 4Gcv5SsxnQWpmOnUI19EJk
+43| OMG (with Carly Rae Jepsen)| Gryffin| 73| 2j9YmQRxtjuVwb4XN95oT8
+44| Tie Me Down (with Elley Duhé)| Gryffin| 72| 4QVS8YCpK71R4FsxSMCjhP
+45| Feel Good (feat. Daya)| Gryffin| 71| 0Ev562zA4pmUsBqjxsxxdx
+46| Who Do You Love| The Chainsmokers| 70| 4FAd2rB28SaWaJWmn30Xuy
+47| I'm Not Alright| Loud Luxury| 68| 4otVP2TcJliXWq2GjkvWkR
+48| Latch| Disclosure| 68| 1DunhgeZSEgWiIYbHqXl0c
+49| It Ain’t Me (with Selena Gomez)| Kygo| 67| 12GEpg2XOPyqk03JZEZnJs
+50| One Thing Right - Subshock & Evangelos Remix| Marshmello| 58| 4wqO5BabS9reang3VhqEML

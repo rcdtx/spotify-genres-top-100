@@ -1,0 +1,50 @@
+1| Panini| Lil Nas X| 91| 6fTt0CH2t0mdeB2N9XFG5r
+2| Old Town Road - Remix| Lil Nas X| 90| 2YpeDb67231RjR0MgVLzsG
+3| Rodeo| Lil Nas X| 85| 4ak7xjvBeBOcJGWFDX9w5n
+4| The Git Up| Blanco Brown| 85| 5dW1VZPcFqB4n0P08rGDgm
+5| Old Town Road| Lil Nas X| 82| 0F7FA14euOIX8KcbEturGH
+6| The Bones| Maren Morris| 80| 3npzogdOEiVsieXmmhBepL
+7| Beautiful Crazy| Luke Combs| 79| 2rxQMGVafnNaRaXlRMWPde
+8| Old Town Road - Remix| Lil Nas X| 79| 6jmZlyf9DxcIoRrjw02YXm
+9| God's Country| Blake Shelton| 78| 1dyxS3YzBbL0t8rEVwVQ1K
+10| Whiskey Glasses| Morgan Wallen| 78| 6foY66mWZN0pSRjZ408c00
+11| Knockin' Boots| Luke Bryan| 77| 6ERR6e7h6wCqGoz1TjiUJb
+12| Beer Never Broke My Heart| Luke Combs| 77| 7nfmK6oHPDlAd68A11d7AN
+13| Body Like A Back Road| Sam Hunt| 77| 7mldq42yDuxiUNn08nvzHO
+14| Better Luck Next Time| Kelsea Ballerini| 77| 7vejWqYK7NFsxbxQsAjTrC
+15| Rumor| Lee Brice| 76| 56eGOeSsqdg3FLxdo83TwV
+16| Look What God Gave Her| Thomas Rhett| 76| 2KqJC0koTBUyDlsMt5ok1V
+17| Talk You Out Of It| Florida Georgia Line| 76| 4qQwGRtGT7l6ckQtdPEFd4
+18| When It Rains It Pours| Luke Combs| 76| 1mMLMZYXkMueg65jRRWG1l
+19| Heaven| Kane Brown| 76| 1HXy5I3HTWq8OvxCn0z7G7
+20| Hurricane| Luke Combs| 76| 6xHI9KjUjYT0FPtGO8Mxa1
+21| She Got the Best of Me| Luke Combs| 75| 698eQRku24PIYPQPHItKlA
+22| Eyes On You| Chase Rice| 75| 5AnSllIrgGsCZzZJkVnApx
+23| Simple| Florida Georgia Line| 75| 4L9Ds4mpD3SuYoWwFUlv16
+24| What Ifs| Kane Brown| 75| 7zVCrzzEJU7u24sbJPXA5W
+25| Chicken Fried| Zac Brown Band| 75| 4dGJf1SER1T6ooX46vwzRB
+26| Tennessee Whiskey| Chris Stapleton| 75| 3fqwjXwUGN6vbzIwvyFMhx
+27| C7osure (You Like)| Lil Nas X| 75| 4no0eHn4fEB7tN1yZSXMma
+28| Love Ain't| Eli Young Band| 74| 6uVzeU47Qzg0rrMneP5BNg
+29| I Don't Know About You| Chris Lane| 74| 3yOs8FffuG6hPbzQG9lIqV
+30| One Man Band| Old Dominion| 74| 3ksmU0DaEUMEVzx5V6cc3z
+31| Speechless| Dan + Shay| 74| 7q7jyVU0f0hnod8tsaUmxg
+32| Wagon Wheel| Darius Rucker| 74| 3xdjjKMcMOFgo1eQrfbogM
+33| Tequila| Dan + Shay| 74| 7Il2yWQmsqKgSkLQvHTPUI
+34| Speechless| Dan + Shay| 74| 3GJ4hzg4lrGwU51Y3VARbF
+35| Die A Happy Man| Thomas Rhett| 73| 5kNe7PE09d6Kvw5pAsx23n
+36| Night Shift| Jon Pardi| 73| 0bPnT6i9H1p8Vd85GS6Z7I
+37| One Number Away| Luke Combs| 73| 4gB7HrYHbJVJ5RFOjxmoq4
+38| Even Though I'm Leaving| Luke Combs| 73| 3sVLgsSTHRu483w6QciloO
+39| Play It Again| Luke Bryan| 73| 03fT3OHB9KyMtGMt2zwqCT
+40| GIRL| Maren Morris| 73| 3y5B5ebFMzEEFqCPOesAXR
+41| All To Myself| Dan + Shay| 73| 0uSGTaHms9ceAxb7L6VLrU
+42| Living| Dierks Bentley| 72| 54K7AZoGpQklpygKrxZlKN
+43| Small Town Boy| Dustin Lynch| 72| 2YMhrXQYKkm4kXLcXKKd5z
+44| Heartache On The Dance Floor| Jon Pardi| 72| 0w3Q14i073jLoew1hgJkwD
+45| Raised on Country| Chris Young| 72| 6voi5xnLs9JKmWG2oLmgDU
+46| Blue Tacoma| Russell Dickerson| 72| 2oPCR02nduYVpj7CTfsA0d
+47| Greatest Love Story| LANCO| 72| 2yQZwi1P8AkkxxFhQ8rMEK
+48| Every Little Thing| Russell Dickerson| 71| 4EpLU30bi1KNWkBTfgZkoK
+49| Rearview Town| Jason Aldean| 70| 3yHTTHbT058Ow0favhZO38
+50| You Make It Easy| Jason Aldean| 70| 2ZxTjs4EdJl4Y9YByIiNoo

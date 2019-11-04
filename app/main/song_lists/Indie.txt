@@ -1,0 +1,50 @@
+1| Without Me| Halsey| 87| 5p7ujcrUXASCNwRaWNHR1C
+2| Pumped Up Kicks| Foster The People| 81| 7w87IxuO7BDcJ3YUqCyMTT
+3| Nightmare| Halsey| 80| 340UVheS8z3ncW9TTUhAbc
+4| Love Me Less (feat. Quinn XCII)| MAX| 79| 2tOOcDDYkh0PSjr6GwPEAJ
+5| Outnumbered| Dermot Kennedy| 79| 6UjZ2Yx2g2a52XxiA8ONxZ
+6| Do I Wanna Know?| Arctic Monkeys| 79| 5FVd6KXrgO9B3JPmC8OPst
+7| Best Friend| Rex Orange County| 77| 47Bg6IrMed1GPbxRgwH2aC
+8| Loving Is Easy| Rex Orange County| 77| 5EYi2rH4LYs6M21ZLOyQTx
+9| Sunflower| Rex Orange County| 77| 4EpZ4eYuZOwPSSwyqpdHnJ
+10| Tongue Tied| Grouplove| 76| 0GO8y8jQk1PkHzS31d699N
+11| Mr. Brightside| The Killers| 76| 7oK9VyNzrYvRFo7nQEYkWN
+12| Buttercup| Jack Stauber| 76| 2mlGPkAx4kwF8Df0GlScsC
+13| Riptide| Vance Joy| 76| 3JvrhDOgAt6p7K8mDyZwRd
+14| Shut Up and Dance| WALK THE MOON| 76| 0kzw2tRyuL9rzipi5ntlIy
+15| hate u love u| Olivia O'Brien| 76| 6ATgDc6e4sPn84hvJsAmPt
+16| Girls Need Love (with Drake) - Remix| Summer Walker| 76| 14SaZBTjxlorHJQxXh01Hu
+17| Go Fuck Yourself| Two Feet| 76| 4NZrZgrRoR4GwR7flWOXRI
+18| Him & I (with Halsey)| G-Eazy| 76| 5k38wzpLb15YgncyWdTZE4
+19| Electric Feel| MGMT| 75| 3FtYbEfBqAlGO46NUDQSAt
+20| Bad At Love| Halsey| 75| 7y9iMe8SOB6z3NoHE2OfXl
+21| Unsteady| X Ambassadors| 74| 7lGKEWMXVWWTt3X71Bv44I
+22| Hey, Ma| Bon Iver| 73| 6YEyNkfWYAFTib8j1eXg1A
+23| 11 Minutes (with Halsey feat. Travis Barker)| YUNGBLUD| 73| 4mGdjNMo0RonTlOEb7cYg4
+24| The Night We Met| Lord Huron| 72| 0QZ5yyl6B6utIWkxeBDxQN
+25| Ain't No Rest for the Wicked| Cage The Elephant| 72| 3Pzh926pXggbMe2ZpXyMV7
+26| Electric Love| BØRNS| 72| 2GiJYvgVaD2HtM8GqD9EgQ
+27| broken| lovelytheband| 72| 6XcfKZvJio9Z0fQy11GnNX
+28| Goodie Bag| Still Woozy| 72| 297rZsBEjFw9d0Gl3iBLnd
+29| Sit Next to Me| Foster The People| 72| 4BdGO1CaObRD4La9l5Zanz
+30| Dissolve| Absofacto| 72| 7pBrj5rt4SSxXwFKOyZfHR
+31| Undrunk| FLETCHER| 72| 5SHhPFh68OhUmuRPymKX9d
+32| Better Not (with Wafia)| Louis The Child| 72| 7n1940b6kHcaEewFSZXnXa
+33| Honesty| Pink Sweat$| 71| 2B1JaRSd7T7YP90n6sCh9I
+34| Home| Edward Sharpe & The Magnetic Zeros| 71| 7w5cxTEzp1rfV3KCy0Bd5N
+35| Prom Queen| Beach Bunny| 71| 3MtGstTnbaZaVOLcfpuiiE
+36| Make You Mine| PUBLIC| 70| 7MZIMa29N98fjb7CefC7KJ
+37| Chamber Of Reflection| Mac DeMarco| 70| 1MJ5f5EYBC92ADD6xcz7nb
+38| Let's Fall in Love for the Night| FINNEAS| 70| 7kQkmyoHCEqwe7QwDbkSXM
+39| Stacy| Quinn XCII| 70| 1pyGo7knT3LE2I1FJIrwdX
+40| Let Her Go| Passenger| 69| 6GmUVqe73u5YRfUUynZK6I
+41| Cigarette Daydreams| Cage The Elephant| 69| 2tznHmp70DxMyr2XhWLOW0
+42| Float On| Modest Mouse| 69| 2lwwrWVKdf3LR9lbbhnr6R
+43| Feathered Indians| Tyler Childers| 68| 2tgQaL85WoRfgEa4hFQgrE
+44| Superposition| Young the Giant| 68| 67YPjbcxUypwNOwYBZquq1
+45| What You Know| Two Door Cinema Club| 67| 3UjtIALeg72qmJiKPWBvM3
+46| Breezeblocks| alt-J| 67| 3n69hLUdIsSa1WlRmjMZlW
+47| Ho Hey| The Lumineers| 67| 0W4Kpfp1w2xkY3PrV714B7
+48| Out of My League| Fitz and The Tantrums| 66| 5qEn8c0MBzyRKgQq91Vevi
+49| HandClap| Fitz and The Tantrums| 65| 4qRaZYiaOsSvWC7VgcxrI0
+50| A-Punk| Vampire Weekend| 65| 1595LW73XBxkRk2ciQOHfr

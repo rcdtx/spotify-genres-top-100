@@ -1,0 +1,50 @@
+1| Anywhere| Sigma| 65| 6lD9nDl7jBUSIPDMAMZjuD
+2| Here We Go Again| Sigma| 65| 1jfW9Ro29uuPlAUfnOqTVw
+3| I Don’t Even Know You Anymore (feat. Bazzi & Lil Wayne)| Netsky| 64| 5pzeevBDvU6GVXqUKoiYDX
+4| Desire (with Dimension)| Sub Focus| 64| 507UUx311ghfFTMSuHUeyS
+5| Afterglow| Wilkinson| 63| 6LW3Z1GqbL78TIjfDyg4zp
+6| All For You| Wilkinson| 61| 3y1fEFFHFv79OYeCbzc774
+7| Solar System| Sub Focus| 60| 5cRDn5aGMLvWsldoRmOOz0
+8| Witchcraft| Pendulum| 58| 4Y2glvLjQGOb4dXnwm1hQf
+9| Find Me| Sigma| 58| 6xB7E0HOWznwiO0v56mqwD
+10| Blind Faith| Chase & Status| 58| 04OxTCLGgDKfO0MMA2lcxv
+11| Watercolour| Pendulum| 57| 5ami95W9OOWQPwrBb5tud5
+12| The Island - Pt. I (Dawn)| Pendulum| 56| 1Thv8uCYzyOFC7PME9J936
+13| Tidal Wave| Sub Focus| 56| 3NKLPcvDM0pefpLNcmui2W
+14| Devotion (ft. Cameron Hayes)| Dimension| 56| 5TGdeBW6v7BuGYjtiFKwyC
+15| Propane Nightmares| Pendulum| 55| 6tC2iHfUlzB2W4ntXXL2BH
+16| The Island, Pt. 1 (Dawn) - Skrillex Remix| Pendulum| 54| 24hYr62Cz2iA3OOef8mykI
+17| Ice Cold| Netsky| 54| 6ROC96qNrDlbWmIKtt93TV
+18| Snitch| Netsky| 53| 4vqhZ5VAfbUKkHJamsWNOL
+19| Halcyon and On and On| Orbital| 53| 5xcunlfaZvD9BDQsLONI7A
+20| Golddust - Original Mix| DJ Fresh| 53| 7e0JYBx8mE2DgPqSIioIZ2
+21| Dawnbreaker| Metrik| 52| 3ychV6Y7TGNXNQlQFzQWVk
+22| White Flag| Delta Heavy| 52| 3PW8R9LHr6tvhdARHAqG9s
+23| Self vs Self (feat. In Flames)| Pendulum| 52| 2lN6G35gsXkA3xzPYqmis5
+24| Colours| Maduk| 52| 0iluFrEwVC3zqYYn9l1NjC
+25| Go| Maduk| 51| 6LmNEPZWhYAyz9jZHaW3sj
+26| Promises - Skrillex & Nero Remix| NERO| 50| 7569Hbv0FUS7vjkdGvdgeZ
+27| Run| ShockOne| 50| 4AIkfXZEwpKaWDDyt5m0n7
+28| Got You There| Matrix & Futurebound| 50| 2rY8KKXTr9XOMn0IdpBBXm
+29| Crush| Pendulum| 50| 6hzwfFKrTabeUsW5SWti17
+30| Midnight| 1991| 50| 2GChih05xzZPWX4FjpDAzL
+31| Promises| NERO| 49| 4A7qcJp2Sg867JST1pSPJz
+32| Dreams| NERO| 49| 560Ac5wm8qT64yGNRKRhpN
+33| Big Hearts (feat. Stargate, KYLE)| Netsky| 49| 1RP57IhDU2nBu8x2mjqFQi
+34| Ghost Assassin - Original Mix| Maduk| 49| 3VPBqHUd17ZvEgabW9ZOUU
+35| The Thrill - Porter Robinson Remix| NERO| 48| 5ZnOG96081GKWdYzICCzIu
+36| Nobody To Love - Radio Edit| Sigma| 48| 5dzHlLBWdxdQySpvZLHcu9
+37| Lullaby| NERO| 48| 6aVZv1SWy5dgyMmqNtqhTr
+38| Sight Of Your Soul| Dirtyphonics| 48| 59OTmT50LsfZVqExj9nCHL
+39| Ghost Assassin - VIP| Maduk| 46| 5psoxZpBVWS27k9Fngaes9
+40| Doomsday| NERO| 45| 47r2YKldN36ykegWkciO0E
+41| Hammer| Dirtyphonics| 45| 3HPPcZ9oK7yGmy5vn7OMLC
+42| The Island - Pt. II (Dusk)| Pendulum| 45| 26s79pNvksAh8tlEembKm3
+43| Lullaby| NERO| 44| 2VfWXoUeWSfI0yzEFRcVCn
+44| Promises - Skrillex & Nero Remix| NERO| 42| 04ZBBOl3AoCBY1A3CTKZLn
+45| Me And You| NERO| 40| 0xIof5gmHjFY0t1eX7angP
+46| Endorphins - Sub Focus Vs. Fred V & Grafix Remix| Sub Focus| 39| 5dQumDzmxOm8R71YEfWpA3
+47| Into The Night| NERO| 39| 5RUN2ZS2P1CxwqafGfzqNh
+48| Promises - Skrillex & Nero Remix| NERO| 38| 4tBm1UssZthEdY0JvJBVHe
+49| Innocence| NERO| 38| 1HoV86Z02IGN7GMdcfVyGh
+50| Satisfy| NERO| 38| 4FoHmnlQPesxK7ZT1QCnd6
