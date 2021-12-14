@@ -15,7 +15,7 @@ export default class extends Component {
   }
 }
 
-export async function getServerSideProps() {
+export async function getStaticProps() {
   const client_id = process.env.CLIENT_ID
   const client_secret = process.env.CLIENT_SECRET
   const base64Credentials = Buffer.from(`${client_id}:${client_secret}`).toString('base64');
