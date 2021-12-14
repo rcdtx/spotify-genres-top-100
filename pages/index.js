@@ -5,11 +5,20 @@ export default class extends Component {
   render() {
     return (
       <div>
-        <table>
-          {this.props.tracks.map(item => (
-            <tr>{item}</tr>
-          ))}
-        </table>
+        <thead>
+          <tr>
+            <th>{this.props.genre}</th>
+          </tr>
+        </thead>
+        <div>
+          <table>
+            <tbody>
+              {this.props.tracks.map(item => (
+                <tr><td>{item}</td></tr>
+              ))}
+            </tbody>
+          </table>
+        </div>
       </div>
     )
   }
@@ -54,6 +63,7 @@ export async function getStaticProps() {
 
   return {
     props: {
+      genre: "EDM",
       tracks: filteredTracks
     },
   };
