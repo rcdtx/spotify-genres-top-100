@@ -2,6 +2,12 @@ import logo from './logo.svg';
 import './App.css';
 
 function App() {
+  const load_playlists = async () => {
+    const res = await fetch('/api/get_playlists');
+    const playlist_data = await res.json();
+    return playlist_data;
+  }
+
   return (
     <div className="App">
       <header className="App-header">
@@ -18,6 +24,7 @@ function App() {
           Learn React
         </a>
       </header>
+      <p>playlist data: {load_playlists}</p>
     </div>
   );
 }

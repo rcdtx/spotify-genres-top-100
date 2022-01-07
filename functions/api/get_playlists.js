@@ -34,10 +34,6 @@ export async function onRequest(context) {
 
     const filteredTracks = topTracksSorted.map(item => item.name)
     console.log(filteredTracks);
-    return {
-        props: {
-            genre: "EDM",
-            tracks: filteredTracks
-        },
-    };
+
+    return new Response(filteredTracks)
 }
