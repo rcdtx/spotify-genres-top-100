@@ -35,7 +35,6 @@ export async function onRequest(context) {
     const topTracksSorted = topTracks.sort((a, b) => b.popularity - a.popularity || Date.parse(b.album.release_date) - Date.parse(a.album.release_date));
 
     const filteredTracks = topTracksSorted.map(item => item.name)
-    console.log(filteredTracks);
 
     return new Response(JSON.stringify(filteredTracks))
 }
