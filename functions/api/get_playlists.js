@@ -1,3 +1,5 @@
+import {Buffer} from 'buffer';
+
 export async function onRequest(context) {
     const client_id = context.env.CLIENT_ID
     const client_secret = context.env.CLIENT_SECRET
@@ -33,7 +35,7 @@ export async function onRequest(context) {
     const topTracksSorted = topTracks.sort((a, b) => b.popularity - a.popularity || Date.parse(b.album.release_date) - Date.parse(a.album.release_date));
 
     const filteredTracks = topTracksSorted.map(item => item.name)
-    // console.log(filteredTracks);
+    console.log(filteredTracks);
 
     return new Response(JSON.stringify(filteredTracks))
 }
