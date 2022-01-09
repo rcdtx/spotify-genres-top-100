@@ -14,6 +14,10 @@ export default function App() {
   return (
     <div>
       <img src={logo} className="App-logo" alt="logo" />
+      <h3>Enter Genre:</h3>
+      <input></input><button>search</button>
+      
+      <h3>EDM</h3>
       <ol>
         {data.map((el, index) => (
           <li key={index}>{el}</li>
