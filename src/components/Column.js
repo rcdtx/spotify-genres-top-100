@@ -13,7 +13,7 @@ export default function Column({ genre, data }) {
                 <Table stickyHeader aria-label="sticky table">
                     <TableHead>
                         <TableRow>
-                            <TableCell>
+                            <TableCell align={'center'}>
                                 {genre}
                             </TableCell>
                         </TableRow>
