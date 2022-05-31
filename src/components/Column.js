@@ -11,12 +11,11 @@ export default function Column({ genre }) {
     const [data, setData] = useState(Array(50).fill(1).map((x, y) => x + y));
 
     useEffect(() => {
-        fetch("/api/get_playlists", {
-            method: 'POST',
+        fetch(`/api/get_playlist/${genre}`, {
+            method: 'GET',
             headers: {
                 'Content-Type': 'application/json',
             },
-            body: genre,
         })
             .then(response => response.json())
             .then(data => setData(data));

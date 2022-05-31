@@ -1,6 +1,6 @@
 import { Buffer } from 'buffer';
 
-export async function onRequest(context) {
+export async function onRequestGet(context) {
     const client_id = context.env.CLIENT_ID
     const client_secret = context.env.CLIENT_SECRET
     const base64Credentials = Buffer.from(`${client_id}:${client_secret}`).toString('base64');
@@ -31,7 +31,7 @@ export async function onRequest(context) {
     };
 
     const token = await _getToken();
-    const tracks = await _getTopTracks(token, "EDM");
+    const tracks = await _getTopTracks(token, context.genre);
     const topTracks = tracks.items;
     const topTracksSorted = topTracks.sort((a, b) => b.popularity - a.popularity || Date.parse(b.album.release_date) - Date.parse(a.album.release_date));
 
