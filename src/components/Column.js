@@ -12,7 +12,7 @@ export default function Column({ genre }) {
 
     useEffect(() => {
         fetch("/api/get_playlists", {
-            method: 'GET',
+            method: 'POST',
             headers: {
                 'Content-Type': 'application/json',
             },
