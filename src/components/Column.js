@@ -8,7 +8,7 @@ import TableRow from '@mui/material/TableRow';
 
 
 export default function Column({ genre }) {
-    const [data, setData] = useState(Array(50).fill(1).map((x, y) => x + y));
+    const [data, setData] = useState([]);
 
     useEffect(() => {
         fetch(`/api/get_playlist/${genre}`, {
