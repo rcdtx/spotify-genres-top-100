@@ -5,9 +5,10 @@ import TableCell from '@mui/material/TableCell';
 import TableContainer from '@mui/material/TableContainer';
 import TableHead from '@mui/material/TableHead';
 import TableRow from '@mui/material/TableRow';
+import Link from '@mui/material/Link';
 
 
-export default function Column({ genre }) {
+export default function Column({ genre, uri }) {
     const [data, setData] = useState([]);
 
     useEffect(() => {
@@ -28,7 +29,7 @@ export default function Column({ genre }) {
                     <TableHead>
                         <TableRow>
                             <TableCell align={'center'}>
-                                {genre}
+                                <Link href={`https://open.spotify.com/playlist/${uri}`}> {genre} </Link>
                             </TableCell>
                         </TableRow>
                     </TableHead>

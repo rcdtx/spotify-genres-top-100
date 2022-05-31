@@ -48,6 +48,7 @@ const darkTheme = createTheme({
   },
 });
 
+
 export default function App() {
 
   return (
@@ -69,9 +70,9 @@ export default function App() {
         <Button variant="contained">Add</Button>
 
         <Grid container direction="row" spacing={4}>
-          {Array.from(Object.keys(genreList)).map((genre, index) => (
+          {Object.entries(genreList).map(([genre, uri], index) => (
             <Grid item key={index}>
-              <Column genre={genre}></Column>
+              <Column genre={genre} uri={uri}></Column>
             </Grid>
           ))}
         </Grid>
