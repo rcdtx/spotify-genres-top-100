@@ -3,6 +3,9 @@ import logo from './logo.svg';
 import Button from '@material-ui/core/Button'
 import Grid from '@mui/material/Grid';
 import TextField from '@mui/material/TextField';
+import { ThemeProvider, createTheme } from '@mui/material/styles';
+import CssBaseline from '@mui/material/CssBaseline';
+
 import './App.css';
 import Column from './components/Column';
 
@@ -39,6 +42,12 @@ const genreList = {
 }
 
 
+const darkTheme = createTheme({
+  palette: {
+    mode: 'dark',
+  },
+});
+
 export default function App() {
 
   return (
@@ -52,18 +61,21 @@ export default function App() {
         href="https://fonts.googleapis.com/icon?family=Material+Icons"
       />
       <img src={logo} className="App-logo" alt="logo" />
+      <ThemeProvider theme={darkTheme}>
+        <CssBaseline />
 
-      <h3>Add Genre:</h3>
-      <TextField id="outlined-basic" label="genre" variant="outlined" />
-      <Button variant="contained">Add</Button>
+        <h3>Add Genre:</h3>
+        <TextField id="outlined-basic" label="genre" variant="outlined" />
+        <Button variant="contained">Add</Button>
 
-      <Grid container direction="row" spacing={4}>
-        {Array.from(Object.keys(genreList)).map((genre, index) => (
-          <Grid item key={index}>
-            <Column genre={genre}></Column>
-          </Grid>
-        ))}
-      </Grid>
+        <Grid container direction="row" spacing={4}>
+          {Array.from(Object.keys(genreList)).map((genre, index) => (
+            <Grid item key={index}>
+              <Column genre={genre}></Column>
+            </Grid>
+          ))}
+        </Grid>
+      </ThemeProvider>
     </>
   );
 }
