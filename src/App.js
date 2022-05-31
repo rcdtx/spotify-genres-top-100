@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+import React from 'react';
 import logo from './logo.svg';
 import Button from '@material-ui/core/Button'
 import Grid from '@mui/material/Grid';
@@ -40,13 +40,6 @@ const genreList = {
 
 
 export default function App() {
-  const [data, setData] = useState(Array(50).fill(1).map((x, y) => x + y));
-
-  useEffect(() => {
-    fetch("/api/get_playlists")
-      .then(response => response.json())
-      .then(data => setData(data));
-  }, []);
 
   return (
     <>
@@ -67,7 +60,7 @@ export default function App() {
       <Grid container direction="row" spacing={4}>
         {Array.from(Object.keys(genreList)).map((genre, index) => (
           <Grid item key={index}>
-            <Column genre={genre} data={data}></Column>
+            <Column genre={genre}></Column>
           </Grid>
         ))}
       </Grid>

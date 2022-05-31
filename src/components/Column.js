@@ -1,4 +1,4 @@
-import React from 'react'
+import React, { useState, useEffect } from 'react';
 import Table from '@mui/material/Table';
 import TableBody from '@mui/material/TableBody';
 import TableCell from '@mui/material/TableCell';
@@ -6,7 +6,16 @@ import TableContainer from '@mui/material/TableContainer';
 import TableHead from '@mui/material/TableHead';
 import TableRow from '@mui/material/TableRow';
 
-export default function Column({ genre, data }) {
+
+export default function Column({ genre }) {
+    const [data, setData] = useState(Array(50).fill(1).map((x, y) => x + y));
+
+    useEffect(() => {
+        fetch("/api/get_playlists", genre)
+            .then(response => response.json())
+            .then(data => setData(data));
+    }, [genre]);
+
     return (
         <>
             <TableContainer sx={{ maxHeight: 600 }}>
