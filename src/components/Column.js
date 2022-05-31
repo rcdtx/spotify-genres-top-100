@@ -24,7 +24,7 @@ export default function Column({ genre, uri }) {
 
     return (
         <>
-            <TableContainer sx={{ maxHeight: 600 }}>
+            <TableContainer sx={{ maxHeight: 600, maxWidth: 500, minWidth: 500 }}>
                 <Table stickyHeader aria-label="sticky table">
                     <TableHead>
                         <TableRow>
@@ -34,10 +34,10 @@ export default function Column({ genre, uri }) {
                         </TableRow>
                     </TableHead>
                     <TableBody>
-                        {data.map((el, index) => (
-                            <TableRow key={index}>
-                                <TableCell key={index} align={'center'}>
-                                    {index + 1}. {el}
+                        {data.map((song, index) => (
+                            <TableRow hover key={index}>
+                                <TableCell key={index} align={'left'}>
+                                    {index + 1}. {song} -
                                 </TableCell>
                             </TableRow>
                         ))}

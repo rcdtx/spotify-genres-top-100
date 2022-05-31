@@ -69,7 +69,7 @@ export default function App() {
         <TextField id="outlined-basic" label="genre" variant="outlined" />
         <Button variant="contained">Add</Button>
 
-        <Grid container direction="row" spacing={4}>
+        <Grid container direction="row" spacing={8}>
           {Object.entries(genreList).map(([genre, uri], index) => (
             <Grid item key={index}>
               <Column genre={genre} uri={uri}></Column>
