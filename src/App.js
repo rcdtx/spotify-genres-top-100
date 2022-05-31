@@ -38,7 +38,6 @@ const genreList = {
   'Trap': '6mxg4NxqkR8cr1o8hBPG5A'
 }
 
-console.log(Object.keys(genreList))
 
 export default function App() {
   const [data, setData] = useState(Array(50).fill(1).map((x, y) => x + y));
@@ -68,7 +67,7 @@ export default function App() {
       <Grid container direction="row" spacing={4}>
         {Array.from(Object.keys(genreList)).map((genre, index) => (
           <Grid item key={index}>
-          <Column genre={genre} data={data}></Column>
+            <Column genre={genre} data={data}></Column>
           </Grid>
         ))}
       </Grid>
