@@ -1,8 +1,11 @@
-import React, { useState, useEffect } from 'react';
+import React from 'react';
 import logo from './logo.svg';
 import Button from '@material-ui/core/Button'
 import Grid from '@mui/material/Grid';
 import TextField from '@mui/material/TextField';
+import { ThemeProvider, createTheme } from '@mui/material/styles';
+import CssBaseline from '@mui/material/CssBaseline';
+
 import './App.css';
 import Column from './components/Column';
 
@@ -38,16 +41,15 @@ const genreList = {
   'Trap': '6mxg4NxqkR8cr1o8hBPG5A'
 }
 
-console.log(Object.keys(genreList))
+
+const darkTheme = createTheme({
+  palette: {
+    mode: 'dark',
+  },
+});
+
 
 export default function App() {
-  const [data, setData] = useState(Array(50).fill(1).map((x, y) => x + y));
-
-  useEffect(() => {
-    fetch("/api/get_playlists")
-      .then(response => response.json())
-      .then(data => setData(data));
-  }, []);
 
   return (
     <>
@@ -60,18 +62,21 @@ export default function App() {
         href="https://fonts.googleapis.com/icon?family=Material+Icons"
       />
       <img src={logo} className="App-logo" alt="logo" />
+      <ThemeProvider theme={darkTheme}>
+        <CssBaseline />
 
-      <h3>Add Genre:</h3>
-      <TextField id="outlined-basic" label="genre" variant="outlined" />
-      <Button variant="contained">Add</Button>
+        <h3>Add Genre:</h3>
+        <TextField id="outlined-basic" label="genre" variant="outlined" />
+        <Button variant="contained">Add</Button>
 
-      <Grid container direction="row" spacing={4}>
-        {Array.from(Object.keys(genreList)).map((genre, index) => (
-          <Grid item key={index}>
-          <Column genre={genre} data={data}></Column>
-          </Grid>
-        ))}
-      </Grid>
+        <Grid container direction="row" spacing={8}>
+          {Object.entries(genreList).map(([genre, uri], index) => (
+            <Grid item key={index}>
+              <Column genre={genre} uri={uri}></Column>
+            </Grid>
+          ))}
+        </Grid>
+      </ThemeProvider>
     </>
   );
 }
