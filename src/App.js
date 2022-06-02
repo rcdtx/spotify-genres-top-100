@@ -3,8 +3,11 @@ import logo from './logo.svg';
 import Button from '@material-ui/core/Button'
 import Grid from '@mui/material/Grid';
 import TextField from '@mui/material/TextField';
+import Container from '@mui/material/Container';
 import { ThemeProvider, createTheme } from '@mui/material/styles';
 import CssBaseline from '@mui/material/CssBaseline';
+import Typography from '@mui/material/Typography';
+import Stack from '@mui/material/Stack';
 
 import './App.css';
 import Column from './components/Column';
@@ -61,14 +64,17 @@ export default function App() {
         rel="stylesheet"
         href="https://fonts.googleapis.com/icon?family=Material+Icons"
       />
+      <Typography variant="h2" align={'center'}>Spotify Top Tracks by Genre</Typography>
+
       <img src={logo} className="App-logo" alt="logo" />
       <ThemeProvider theme={darkTheme}>
         <CssBaseline />
-
-        <h3>Add Genre:</h3>
-        <TextField id="outlined-basic" label="genre" variant="outlined" />
-        <Button variant="contained">Add</Button>
-
+        <Container maxWidth="sm">
+        <Stack direction="row" spacing={2}>
+          <TextField id="outlined-basic" label="genre" variant="outlined" />
+          <Button variant="contained" >Add</Button>
+          </Stack>
+        </Container>
         <Grid container direction="row" spacing={8}>
           {Object.entries(genreList).map(([genre, uri], index) => (
             <Grid item key={index}>
