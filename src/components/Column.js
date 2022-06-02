@@ -29,7 +29,7 @@ export default function Column({ genre, uri }) {
                     <TableHead>
                         <TableRow>
                             <TableCell align={'center'}>
-                                <Link href={`https://open.spotify.com/playlist/${uri}`}> {genre} </Link>
+                                <Link href={`https://open.spotify.com/playlist/${uri}`} variant="h5"> {genre} </Link>
                             </TableCell>
                         </TableRow>
                     </TableHead>

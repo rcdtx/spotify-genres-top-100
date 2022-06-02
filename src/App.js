@@ -66,15 +66,17 @@ export default function App() {
       />
       <Typography variant="h2" align={'center'}>Spotify Top Tracks by Genre</Typography>
 
-      <img src={logo} className="App-logo" alt="logo" />
       <ThemeProvider theme={darkTheme}>
         <CssBaseline />
         <Container maxWidth="sm">
-        <Stack direction="row" spacing={2}>
-          <TextField id="outlined-basic" label="genre" variant="outlined" />
-          <Button variant="contained" >Add</Button>
+          <img src={logo} className="App-logo" alt="logo" />
+          <Stack direction="row" spacing={5}>
+
+            <TextField id="outlined-basic" label="genre" variant="outlined" />
+            <Button variant="contained" >Add</Button>
           </Stack>
         </Container>
+
         <Grid container direction="row" spacing={8}>
           {Object.entries(genreList).map(([genre, uri], index) => (
             <Grid item key={index}>
