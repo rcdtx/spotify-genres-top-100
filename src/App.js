@@ -1,5 +1,4 @@
 import React from 'react';
-import logo from './logo.svg';
 import Button from '@material-ui/core/Button'
 import Grid from '@mui/material/Grid';
 import TextField from '@mui/material/TextField';
@@ -10,7 +9,6 @@ import Typography from '@mui/material/Typography';
 import Stack from '@mui/material/Stack';
 import Box from '@mui/material/Box';
 
-import './App.css';
 import Column from './components/Column';
 
 
