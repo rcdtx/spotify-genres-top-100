@@ -1,12 +1,14 @@
 import React from 'react';
-import logo from './logo.svg';
 import Button from '@material-ui/core/Button'
 import Grid from '@mui/material/Grid';
 import TextField from '@mui/material/TextField';
+import Container from '@mui/material/Container';
 import { ThemeProvider, createTheme } from '@mui/material/styles';
 import CssBaseline from '@mui/material/CssBaseline';
+import Typography from '@mui/material/Typography';
+import Stack from '@mui/material/Stack';
+import Box from '@mui/material/Box';
 
-import './App.css';
 import Column from './components/Column';
 
 
@@ -61,21 +63,35 @@ export default function App() {
         rel="stylesheet"
         href="https://fonts.googleapis.com/icon?family=Material+Icons"
       />
-      <img src={logo} className="App-logo" alt="logo" />
+      <Typography variant="h2" align={'center'} sx={{ fontWeight: 'bold' }}>Spotify Top Tracks</Typography>
+
       <ThemeProvider theme={darkTheme}>
         <CssBaseline />
-
-        <h3>Add Genre:</h3>
-        <TextField id="outlined-basic" label="genre" variant="outlined" />
-        <Button variant="contained">Add</Button>
-
-        <Grid container direction="row" spacing={8}>
-          {Object.entries(genreList).map(([genre, uri], index) => (
-            <Grid item key={index}>
-              <Column genre={genre} uri={uri}></Column>
+        <main>
+          <Box
+            sx={{
+              bgcolor: 'background.paper',
+              pt: 8,
+              pb: 6,
+            }}
+          >
+            <Container maxWidth="sm">
+              <Stack direction="row" spacing={5} justifyContent="center">
+                <TextField id="outlined-basic" label="genre" variant="outlined" />
+                <Button variant="contained" >Add</Button>
+              </Stack>
+            </Container>
+          </Box>
+          <Container>
+            <Grid container direction="row" spacing={5}>
+              {Object.entries(genreList).map(([genre, uri], index) => (
+                <Grid item key={index}>
+                  <Column genre={genre} uri={uri}></Column>
+                </Grid>
+              ))}
             </Grid>
-          ))}
-        </Grid>
+          </Container>
+        </main>
       </ThemeProvider>
     </>
   );

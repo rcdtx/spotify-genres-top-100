@@ -24,12 +24,12 @@ export default function Column({ genre, uri }) {
 
     return (
         <>
-            <TableContainer sx={{ maxHeight: 600, maxWidth: 500, minWidth: 500 }}>
+            <TableContainer sx={{ maxHeight: 600, maxWidth: 500, minWidth: 500, border: 2, borderRadius: 3 }}>
                 <Table stickyHeader aria-label="sticky table">
                     <TableHead>
                         <TableRow>
                             <TableCell align={'center'}>
-                                <Link href={`https://open.spotify.com/playlist/${uri}`}> {genre} </Link>
+                                <Link href={`https://open.spotify.com/playlist/${uri}`} variant="h5"> {genre} </Link>
                             </TableCell>
                         </TableRow>
                     </TableHead>
