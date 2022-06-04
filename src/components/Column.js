@@ -24,7 +24,7 @@ export default function Column({ genre, uri }) {
 
     return (
         <>
-            <TableContainer sx={{ maxHeight: 600, maxWidth: 500, minWidth: 500 }}>
+            <TableContainer sx={{ maxHeight: 600, maxWidth: 500, minWidth: 500, border: 2, borderRadius: 3 }}>
                 <Table stickyHeader aria-label="sticky table">
                     <TableHead>
                         <TableRow>

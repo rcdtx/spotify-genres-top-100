@@ -8,6 +8,7 @@ import { ThemeProvider, createTheme } from '@mui/material/styles';
 import CssBaseline from '@mui/material/CssBaseline';
 import Typography from '@mui/material/Typography';
 import Stack from '@mui/material/Stack';
+import Box from '@mui/material/Box';
 
 import './App.css';
 import Column from './components/Column';
@@ -64,26 +65,35 @@ export default function App() {
         rel="stylesheet"
         href="https://fonts.googleapis.com/icon?family=Material+Icons"
       />
-      <Typography variant="h2" align={'center'}>Spotify Top Tracks by Genre</Typography>
+      <Typography variant="h2" align={'center'} sx={{ fontWeight: 'bold' }}>Spotify Top Tracks</Typography>
 
       <ThemeProvider theme={darkTheme}>
         <CssBaseline />
-        <Container maxWidth="sm">
-          <img src={logo} className="App-logo" alt="logo" />
-          <Stack direction="row" spacing={5}>
-
-            <TextField id="outlined-basic" label="genre" variant="outlined" />
-            <Button variant="contained" >Add</Button>
-          </Stack>
-        </Container>
-
-        <Grid container direction="row" spacing={8}>
-          {Object.entries(genreList).map(([genre, uri], index) => (
-            <Grid item key={index}>
-              <Column genre={genre} uri={uri}></Column>
+        <main>
+          <Box
+            sx={{
+              bgcolor: 'background.paper',
+              pt: 8,
+              pb: 6,
+            }}
+          >
+            <Container maxWidth="sm">
+              <Stack direction="row" spacing={5} justifyContent="center">
+                <TextField id="outlined-basic" label="genre" variant="outlined" />
+                <Button variant="contained" >Add</Button>
+              </Stack>
+            </Container>
+          </Box>
+          <Container>
+            <Grid container direction="row" spacing={5}>
+              {Object.entries(genreList).map(([genre, uri], index) => (
+                <Grid item key={index}>
+                  <Column genre={genre} uri={uri}></Column>
+                </Grid>
+              ))}
             </Grid>
-          ))}
-        </Grid>
+          </Container>
+        </main>
       </ThemeProvider>
     </>
   );
