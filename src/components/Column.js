@@ -34,13 +34,6 @@ export default function Column({ genre, uri }) {
                         </TableRow>
                     </TableHead>
                     <TableBody>
-                        {/* {data.map((song, index) => (
-                            <TableRow hover key={index}>
-                                <TableCell key={index} align={'left'}>
-                                    {index + 1}. {song} -
-                                </TableCell>
-                            </TableRow>
-                        ))} */}
                         {data.map((track, index) => (
                             <TableRow hover key={index}>
                                 <TableCell key={index} align={'left'}>

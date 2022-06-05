@@ -33,17 +33,11 @@ export async function onRequestGet(context) {
     const token = await _getToken();
     const tracks = await _getGenreTracks(token, params.genre);
 
-    // for (const el in tracks.items) {
-    //     console.log(Object.keys(tracks.items[el]));
-    // }
-
     const allowed = ['artists', 'external_urls', 'name', 'popularity', 'uri']
 
     const topTracks = tracks.items;
     const topTracksSorted = topTracks.sort((a, b) => b.popularity - a.popularity || Date.parse(b.album.release_date) - Date.parse(a.album.release_date));
-    // console.log(topTracksSorted[0])
     const filteredTracks = topTracksSorted.map(item => Object.fromEntries(allowed.map(k => [k, item[k]])));
-    console.log(filteredTracks[0].external_urls['spotify'])
-    // const filteredTracks = topTracksSorted.map(item => item.name)
+
     return new Response(JSON.stringify(filteredTracks))
 }
