@@ -67,6 +67,7 @@ export default function App() {
       <Grid item key={userColumnList.length + 1}>
         <Column genre={textFieldRef.current.value} uri={'#'}></Column>
       </Grid>, ...userColumnList,])
+    textFieldRef.current.value = null
   }
 
   const onEnter = () => {
@@ -74,6 +75,7 @@ export default function App() {
       <Grid item key={prevColumnList.length + 1}>
         <Column genre={textFieldRef.current.value} uri={'#'}></Column>
       </Grid>, ...prevColumnList,])
+    textFieldRef.current.value = null
   }
 
   return (
@@ -101,8 +103,9 @@ export default function App() {
               </Stack>
             </Container>
           </Box>
-          <Container>
-            <Grid container direction="row" spacing={5}>
+          <Container >
+            <Grid container direction="row" spacing={5} alignItems="center"
+              justifyContent="center">
               {userColumnList}
               {initColumnList}
             </Grid>
