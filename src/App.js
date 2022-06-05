@@ -57,22 +57,23 @@ export default function App() {
       <Column genre={genre} uri={uri}></Column>
     </Grid>
   ))
-  const [columnList, setColumnList] = useState([initColumnList]);
+
+  const [userColumnList, setuserColumnList] = useState([]);
 
   const textFieldRef = useRef();
 
   const onAddBtnClick = () => {
-    setColumnList([
-      <Grid item key={columnList.length + 1}>
+    setuserColumnList([
+      <Grid item key={userColumnList.length + 1}>
         <Column genre={textFieldRef.current.value} uri={'#'}></Column>
-      </Grid>, ...columnList,])
+      </Grid>, ...userColumnList,])
   }
 
   const onEnter = () => {
-    setColumnList([
-      <Grid item key={columnList.length + 1}>
+    setuserColumnList(prevColumnList => [
+      <Grid item key={prevColumnList.length + 1}>
         <Column genre={textFieldRef.current.value} uri={'#'}></Column>
-      </Grid>, ...columnList,])
+      </Grid>, ...prevColumnList,])
   }
 
   return (
@@ -102,7 +103,8 @@ export default function App() {
           </Box>
           <Container>
             <Grid container direction="row" spacing={5}>
-              {columnList}
+              {userColumnList}
+              {initColumnList}
             </Grid>
           </Container>
         </main>
