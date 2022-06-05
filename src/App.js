@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { useState, useRef } from 'react';
 import Button from '@material-ui/core/Button'
 import Grid from '@mui/material/Grid';
 import TextField from '@mui/material/TextField';
@@ -12,7 +12,7 @@ import Box from '@mui/material/Box';
 import Column from './components/Column';
 
 
-const genreList = {
+const baseGenreList = {
   'Alternative Rock': '0aXgSLLFYRmT87Fit4lU35',
   'Ambient': '1pbOkTqfvFgMMzKfCnTOgG',
   'Blues': '5HUYim9Ao38y3lzJuuJy6a',
@@ -52,17 +52,31 @@ const darkTheme = createTheme({
 
 
 export default function App() {
+  const initColumnList = Object.entries(baseGenreList).map(([genre, uri], index) => (
+    <Grid item key={index}>
+      <Column genre={genre} uri={uri}></Column>
+    </Grid>
+  ))
+  const [columnList, setColumnList] = useState([initColumnList]);
+
+  const textFieldRef = useRef();
+
+  const onAddBtnClick = () => {
+    setColumnList([
+      <Grid item key={columnList.length + 1}>
+        <Column genre={textFieldRef.current.value} uri={'#'}></Column>
+      </Grid>, ...columnList,])
+  }
+
+  const onEnter = () => {
+    setColumnList([
+      <Grid item key={columnList.length + 1}>
+        <Column genre={textFieldRef.current.value} uri={'#'}></Column>
+      </Grid>, ...columnList,])
+  }
 
   return (
     <>
-      <link
-        rel="stylesheet"
-        href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&display=swap"
-      />
-      <link
-        rel="stylesheet"
-        href="https://fonts.googleapis.com/icon?family=Material+Icons"
-      />
       <Typography variant="h2" align={'center'} sx={{ fontWeight: 'bold' }}>Spotify Top Tracks</Typography>
 
       <ThemeProvider theme={darkTheme}>
@@ -77,18 +91,18 @@ export default function App() {
           >
             <Container maxWidth="sm">
               <Stack direction="row" spacing={5} justifyContent="center">
-                <TextField id="outlined-basic" label="genre" variant="outlined" />
-                <Button variant="contained" >Add</Button>
+                <TextField id="outlined-basic" label="genre" variant="outlined" inputRef={textFieldRef} onKeyPress={(event) => {
+                  if (event.key === 'Enter') {
+                    onEnter();
+                  }
+                }} />
+                <Button variant="contained" onClick={onAddBtnClick} >Add</Button>
               </Stack>
             </Container>
           </Box>
           <Container>
             <Grid container direction="row" spacing={5}>
-              {Object.entries(genreList).map(([genre, uri], index) => (
-                <Grid item key={index}>
-                  <Column genre={genre} uri={uri}></Column>
-                </Grid>
-              ))}
+              {columnList}
             </Grid>
           </Container>
         </main>
