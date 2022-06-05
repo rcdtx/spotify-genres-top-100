@@ -34,10 +34,10 @@ export default function Column({ genre, uri }) {
                         </TableRow>
                     </TableHead>
                     <TableBody>
-                        {data.map((song, index) => (
+                        {data.map((track, index) => (
                             <TableRow hover key={index}>
                                 <TableCell key={index} align={'left'}>
-                                    {index + 1}. {song} -
+                                    {index + 1}. <><Link href={track.external_urls['spotify']}> {track.name} </Link></> - {track.artists.map(artist => artist.name).join(', ')}
                                 </TableCell>
                             </TableRow>
                         ))}

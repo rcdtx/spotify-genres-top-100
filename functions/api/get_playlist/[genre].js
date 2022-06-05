@@ -20,7 +20,7 @@ export async function onRequestGet(context) {
         return data.access_token;
     };
 
-    const _getTopTracks = async (token, genreId) => {
+    const _getGenreTracks = async (token, genreId) => {
         const result = await fetch(`https://api.spotify.com/v1/search?q=genre:%20${genreId}&type=track&limit=50`, {
             method: 'GET',
             headers: { 'Authorization': 'Bearer ' + token }
@@ -31,10 +31,13 @@ export async function onRequestGet(context) {
     };
 
     const token = await _getToken();
-    const tracks = await _getTopTracks(token, params.genre);
+    const tracks = await _getGenreTracks(token, params.genre);
+
+    const allowed = ['artists', 'external_urls', 'name', 'popularity', 'uri']
+
     const topTracks = tracks.items;
     const topTracksSorted = topTracks.sort((a, b) => b.popularity - a.popularity || Date.parse(b.album.release_date) - Date.parse(a.album.release_date));
+    const filteredTracks = topTracksSorted.map(item => Object.fromEntries(allowed.map(k => [k, item[k]])));
 
-    const filteredTracks = topTracksSorted.map(item => item.name)
     return new Response(JSON.stringify(filteredTracks))
 }
